@@ -5,7 +5,7 @@
 following rules:
 * Calculator should be able to store the details ofthe child such as the name, age, gender, heightand weight.
 * Calculate the BMI of the child using the standard
-* 
+
 **BMI formula.**
 
 * Display the minimum daily calorie requirementbased on the age. Use the below criteria to displaythe same:
